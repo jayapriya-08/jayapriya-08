@@ -1,4 +1,4 @@
-<h1> About Myself 🙋‍♀️ </h1>
+# About Myself 🙋‍♀️ 
 
 - 👋 Hi, I’m Jayapriya.
 - 👀 I’m interested in Web desiging and I have a keen interest towards it.
@@ -7,7 +7,7 @@
 - 📫 Reach me out @ www.linkedin.com/in/m-jayapriya
 
 
-<h1> Languages & Tools am familiar with :</h1>
+# Languages & Tools am familiar with :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
