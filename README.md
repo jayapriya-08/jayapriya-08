@@ -24,9 +24,9 @@ Iam an enthusiastic Self-Learner & I am found of <img src="https://github.com/de
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="60" height="60"/>&nbsp;
    
 </div>
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayapriya-08&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!-- <h2> Reach out me at
+ <h2> Reach out me at
   
   </h2>
 
