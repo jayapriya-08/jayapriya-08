@@ -1,9 +1,9 @@
 # About Myself 🙋‍♀️ 
 Iam an enthusiastic Self-Learner & I am found of <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="35"/>&nbsp;
 
-<!--- 👋 Hi, I’m Jayapriya.
+ 👋 Hi, I’m Jayapriya.
 - 👀 I’m interested in Web desiging and I have a keen interest towards it.
-- 🌱 I’m currently learning Java, C++, Machine learing and also about App Development.
+- 🌱 I’m currently learning Java, Machine learing and Data Science.
 - 👨‍💻 I’m looking to collaborate on projects related to Front-End development.
 - 📫 Reach me out @ www.linkedin.com/in/m-jayapriya
 
@@ -29,7 +29,7 @@ Iam an enthusiastic Self-Learner & I am found of <img src="https://github.com/de
 <h2> Reach out me at
   
   </h2>
--->
+
 <!---
 jayapriya-08/jayapriya-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
