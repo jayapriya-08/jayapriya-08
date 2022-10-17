@@ -3,7 +3,7 @@ Iam an enthusiastic Self-Learner & I am found of <img src="https://github.com/de
 
  👋 Hi, I’m Jayapriya.
 - 👀 I’m interested in Web desiging and I have a keen interest towards it.
-- 🌱 I’m currently learning Java, Machine learing and Data Science.
+- 🌱 I’m currently learning Java, Machine learning and Data Science.
 - 👨‍💻 I’m looking to collaborate on projects related to Front-End development.
 - 📫 Reach me out @ www.linkedin.com/in/m-jayapriya
 
